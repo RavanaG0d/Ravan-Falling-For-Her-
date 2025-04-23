@@ -25,7 +25,7 @@
 ## 🚀 Installation  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/aoudumber-bade/she-likes-flowers.git
+   git clone https://github.come/RavanG0d/Ravan-Falling-For-Her.git
    ```
 2. Open in browser:  
    ```bash
